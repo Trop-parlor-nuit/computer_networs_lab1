@@ -15,13 +15,13 @@ A multi-user Chinese-English chat program implemented using sockets
     
 4.客户端：运行chat_client.cpp文件启动客户端程序（需要首先启动服务器端程序）
 
-  输入history查看历史纪录
-  
-  输入exit退出
-  
-  每次发送消息之后屏幕上会显示 you：发送的消息
-  
-  每次收到消息之后屏幕上会显示 用户编号：发送的消息
+      输入history查看历史纪录
+      
+      输入exit退出
+      
+      每次发送消息之后屏幕上会显示 you：发送的消息
+      
+      每次收到消息之后屏幕上会显示 用户编号：发送的消息
   
 5.数据丢失的检查和判断
 
